@@ -4,8 +4,6 @@ I am currently going through free online tutorials on w3schools and youtube lear
 
 Please follow my journey as I learn new programming languages to help me become a better programmer.
 
-
-
 ## Python introduction
 
 Learning Python
