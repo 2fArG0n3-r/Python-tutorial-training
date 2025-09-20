@@ -1,1 +1,5 @@
-# time to start learning about Variables in Python
+# Python has no command for declaring a variable
+x = 5
+y = "Smart"
+print(x)
+print(y)
