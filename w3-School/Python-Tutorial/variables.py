@@ -18,4 +18,7 @@ b = int(4) # will be 4
 print(b)
 
 # You can get the data type of a variable by using type()
-
+c = 7
+d = "smile"
+print(type(c))
+print(type(d))
