@@ -9,3 +9,10 @@ print(y)
 a = "welcome"
 a = 4
 print(a)
+
+# if you want to specify a data type, this can be done with CASTING
+
+b = str(4) # will be "4"
+b = float(4) # will be 4.0
+b = int(4) # will be 4
+print(b)
