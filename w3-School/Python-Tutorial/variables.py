@@ -22,3 +22,25 @@ c = 7
 d = "smile"
 print(type(c))
 print(type(d))
+
+# Variables can be declared with single and double quotes.
+
+# Variables are not case sensite a and A are two different variables.
+
+# A variable can have a long name which is more desciptive or a short name like a letter.
+
+'''
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+A variable name cannot be any of the Python keywords.
+
+'''
+# Legal variable names
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
