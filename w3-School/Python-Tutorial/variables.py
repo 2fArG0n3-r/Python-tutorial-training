@@ -44,3 +44,10 @@ _my_var = "John"
 myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
+
+#Assign multiple values
+
+e, f, g = ("elephant", "fish", "Gator")
+print(e)
+print(f)
+print(g)
