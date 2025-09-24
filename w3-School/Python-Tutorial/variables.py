@@ -51,3 +51,9 @@ e, f, g = ("elephant", "fish", "Gator")
 print(e)
 print(f)
 print(g)
+
+# One value to multiple variables
+h = i = j = ("Gator don't take no shit! Ya feel me")
+print(h)
+print(i)
+print(j)
